@@ -1,2 +1,2 @@
-# add comment
+# remove comment
 print("Hello, world!")
