@@ -1,1 +1,2 @@
-print("Hello, world!") # add comment
+# remove comment
+print("Hello, world!")
